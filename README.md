@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 📈 GitHub Stats
 
 ![TheDanielrity's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDanielrity&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDanielrity&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheDanielrity&layout=compact&theme=radical)
+
 
 ---
 
