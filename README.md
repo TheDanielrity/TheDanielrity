@@ -49,8 +49,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/daniel-prado-jimenez-3776a9262/))
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:TheDanielrity)](https://x.com/TheDanielrity)
-
 
 ---
 
