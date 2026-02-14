@@ -12,23 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Daniel! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
 
----
-
-### 🧑‍💻 About Me
-
-- 🔭 Currently working on exciting projects involving web development.
-- 🌱 Constantly learning and improving my skills in JavaScript, Python, and other programming languages.
-- 👯 Looking to collaborate on open-source projects and contribute to the developer community.
-- 📫 How to reach me: [danielpradojimenez@gmail.com](mailto:danielpradojimenez@gmail.com)
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
-
----
-
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -47,10 +33,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Redes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/daniel-prado-jimenez-3776a9262/))
 
 ---
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions.
