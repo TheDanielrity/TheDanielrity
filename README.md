@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 </div>
 
 
-![TheDanielrity's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheDanielrity&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api?username=TheDanielrity&show_icons=true&theme=radical)
 
 
 ---
