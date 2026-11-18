@@ -27,6 +27,20 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheDanielrity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDanielrity&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=TheDanielrity&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+
 ![TheDanielrity's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheDanielrity&layout=compact&theme=radical)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api?username=TheDanielrity&show_icons=true&theme=radical)
 
